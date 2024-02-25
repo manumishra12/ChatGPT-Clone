@@ -9,11 +9,13 @@ This project is a ChatGPT clone built using ReactJS and the OpenAI API key. Chat
 
 ## Technologies Used
 - ReactJS
+- API Integration
 - OpenAI API
+- Node JS
 
 ## Preview
 <div>
-  <h2> <img src = "https://github.com/manumishra12/" width = 800px height=450px> </h2>
+  <h2> <img src = "https://github.com/manumishra12/ChatGPT-Clone/blob/main/ChatGPT%20Clone%20Img.jpg" width = 800px height=450px> </h2>
 </div>
 </div>
 
